@@ -1,0 +1,12 @@
+LINK PÚBLICO – UNIVERSO CRIATIVO
+
+https://afmcmiyidrqgqamoxjqq.supabase.co/functions/v1/lanche-universo-criativo/
+
+Compartilhe apenas este link (ou o QR Code) no WhatsApp.
+O participante informa o nome, escolhe 1 comida, confirma a bebida, pode escolher materiais de apoio e salva.
+O participante não acessa a lista nominal, as estatísticas nem o painel de conferência.
+
+Para instalar no celular: abra o link no Chrome, toque no menu de 3 pontos e escolha Instalar app ou Adicionar à tela inicial.
+No iPhone: Safari > Compartilhar > Adicionar à Tela de Início.
+
+Atenção: a página é hospedada no Supabase e requer internet para registrar e consultar escolhas.

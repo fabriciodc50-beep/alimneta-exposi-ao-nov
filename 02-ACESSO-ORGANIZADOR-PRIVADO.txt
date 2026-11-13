@@ -1,0 +1,11 @@
+ACESSO RESERVADO – NÃO COMPARTILHAR NO GRUPO
+
+Painel: https://afmcmiyidrqgqamoxjqq.supabase.co/functions/v1/lanche-universo-criativo/admin
+
+Chave de acesso: wEIIAauRBTuVFOdJVnnC550k5HxfhLTGpg01
+
+O painel permite ver inscrições, conferir presenças e entregas, editar estimativas e exportar relatório CSV.
+Abra o endereço PRIVADO, digite a chave e toque em Entrar no painel.
+
+IMPORTANTE: este arquivo contém uma chave reservada. NÃO publique este ZIP no GitHub e NÃO o envie aos participantes.
+Se você perder a chave, será necessário redefini-la no código da função do Supabase.

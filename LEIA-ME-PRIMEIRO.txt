@@ -1,0 +1,33 @@
+UNIVERSO CRIATIVO – KIT DE INSTALAÇÃO E DIVULGAÇÃO
+
+1. LINK PÚBLICO
+   https://afmcmiyidrqgqamoxjqq.supabase.co/functions/v1/lanche-universo-criativo/
+   É o único endereço que deve ser enviado às pessoas.
+
+2. PAINEL PRIVADO
+   https://afmcmiyidrqgqamoxjqq.supabase.co/functions/v1/lanche-universo-criativo/admin
+   A chave está no arquivo "02-ACESSO-ORGANIZADOR-PRIVADO.txt".
+
+3. INSTALAR COMO APLICATIVO (PWA)
+   Android: abra o link público no Google Chrome. No menu ⋮, escolha “Instalar app” ou “Adicionar à tela inicial”.
+   iPhone: abra o link no Safari; toque em Compartilhar > “Adicionar à Tela de Início”.
+   Não é um APK. O aplicativo se instala a partir do site HTTPS e usa o banco Supabase.
+
+4. COMPARTILHAR COM O GRUPO
+   Envie somente o link público ou a imagem "QR-CODE-PARTICIPANTES.png".
+   Não envie este pacote ZIP inteiro, pois ele contém a chave administrativa.
+
+5. SUPABASE
+   Projeto: Universo Criativo (afmcmiyidrqgqamoxjqq)
+   Tabelas: uc_lanche_events, uc_lanche_items, uc_lanche_registrations, uc_lanche_picks
+   Função: lanche-universo-criativo (Edge Function, HTTP público; conferência protegida por chave)
+   Catálogo: 100 alimentos econômicos, 3 bebidas, 32 materiais de apoio.
+
+6. CONFERÊNCIA
+   No painel, marque a chegada da pessoa e depois cada item realmente recebido.
+   O resumo distingue o que foi prometido do que foi entregue.
+
+ATENÇÃO SOBRE TESTES
+   O banco e a função foram implantados e confirmados como ativos por meio da integração Supabase.
+   O ambiente desta conversa não conseguiu abrir a página pública para verificar o fluxo completo no navegador.
+   Antes de divulgar, abra os dois endereços no seu aparelho e faça uma inscrição de teste.
